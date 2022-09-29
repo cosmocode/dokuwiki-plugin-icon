@@ -1,0 +1,7 @@
+base   icon
+author Andreas Gohr
+email  gohr@cosmocode.de
+date   2022-09-29
+name   icon plugin
+desc   Use icons just like images
+url    https://www.dokuwiki.org/plugin:icon
